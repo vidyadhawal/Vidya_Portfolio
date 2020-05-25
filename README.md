@@ -3,7 +3,7 @@ A repository of the projects I worked on or currently working on.
 It is updated regularly.The projects are either written in R(R studio) or Python (Jupyter notebook).
 Click on the pojects to see full analysis and code.
 
-# Amazon-Alexa-Reviews
+# Amazon-Alexa-Reviews-Analysis
 Using Natural Language Processing, Data Visualizations and Classification Algorithms of Machine Learning
 ## About the Data
 
